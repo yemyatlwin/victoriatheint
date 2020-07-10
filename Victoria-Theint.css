@@ -1,8 +1,8 @@
-.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/0fdfc846-bac2-4ae5-ba4c-826065f32856.JPG"); min-height: 766px; background-position: 50% 50%}
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/0fdfc846-bac2-4ae5-ba4c-826065f32856.JPG"); min-height: 766px}
 .u-section-1 .u-text-1 {text-shadow: 2px 2px 0 rgba(0,0,0,1); font-size: 2.25rem; line-height: 1.4; background-image: none; font-family: "Poiret One"; animation-duration: 1000ms; margin: 308px calc(((100% - 1140px) / 2) + -53px) 0 calc(((100% - 1140px) / 2) + 744px)}
 .u-section-1 .u-text-2 {animation-duration: 1000ms; font-size: 9.0625rem; text-transform: uppercase; font-family: "Titillium Web", sans-serif; font-weight: normal; margin: 125px 0 60px} 
 
-@media (max-width: 1199px){ .u-section-1 {min-height: 512px}
+@media (max-width: 1199px){ .u-section-1 {min-height: 512px; background-position: 50% 50%}
 .u-section-1 .u-text-1 {width: auto; margin-right: calc(((100% - 940px) / 2) + -33px); margin-left: calc(((100% - 940px) / 2) + 470px)}
 .u-section-1 .u-text-2 {margin-right: calc(((100% - 940px) / 2) + -19px)} }
 
@@ -15,10 +15,11 @@
 
 @media (max-width: 575px){ .u-section-1 {min-height: 612px}
 .u-section-1 .u-text-1 {font-size: 1.5rem; margin-top: 236px; margin-right: calc(((100% - 340px) / 2) + -28px); margin-left: calc(((100% - 340px) / 2) + 52px)}
-.u-section-1 .u-text-2 {font-size: 3.25rem; margin-top: 93px; margin-left: calc(((100% - 340px) / 2) + -28px); margin-right: calc(((100% - 340px) / 2) + -28px)} }.u-section-2 {background-image: url("images/ColorfulBrushstrokesArtistsandIllustratorsCollectionYouTubeChannelArt2.png"); background-position: 50% 50%}
+.u-section-1 .u-text-2 {font-size: 3.25rem; margin-top: 93px; margin-left: calc(((100% - 340px) / 2) + -28px); margin-right: calc(((100% - 340px) / 2) + -28px)} }.u-section-2 {background-image: url("images/ColorfulBrushstrokesArtistsandIllustratorsCollectionYouTubeChannelArt2.png")}
 .u-section-2 .u-sheet-1 {min-height: 729px} 
 
-@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 601px} }
+@media (max-width: 1199px){ .u-section-2 {background-position: 50% 50%}
+.u-section-2 .u-sheet-1 {min-height: 601px} }
 
 @media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 460px} }
 
@@ -246,9 +247,11 @@
 
 @media (max-width: 575px){ .u-section-7 .u-sheet-1 {min-height: 84px}
 .u-section-7 .u-layout-wrap-1 {width: 340px; margin-bottom: 30px}
-.u-section-7 .u-image-1 {min-height: 154px} }.u-section-8 {background-image: url("images/default-image.jpg"); background-position: 50% 50%}
+.u-section-7 .u-image-1 {min-height: 154px} }.u-section-8 {background-image: url("images/default-image.jpg")}
 .u-section-8 .u-sheet-1 {min-height: 500px}
 .u-section-8 .u-image-1 {width: 580px; height: 474px; margin: 0 auto 26px -136px} 
+
+@media (max-width: 1199px){ .u-section-8 {background-position: 50% 50%} }
 
 @media (max-width: 575px){ .u-section-8 {margin-top: 0; margin-bottom: 0}
 .u-section-8 .u-sheet-1 {min-height: 376px}
@@ -330,7 +333,8 @@
 .u-block-0a08-4 {position: absolute; right: 0}.u-section-10-1 {background-image: url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-10-1 .u-sheet-1 {min-height: 641px} 
 
-@media (max-width: 1199px){ .u-section-10-1 .u-sheet-1 {min-height: 529px} }
+@media (max-width: 1199px){ .u-section-10-1 {background-position: 50% 50%}
+.u-section-10-1 .u-sheet-1 {min-height: 529px} }
 
 @media (max-width: 991px){ .u-section-10-1 .u-sheet-1 {min-height: 405px} }
 
@@ -350,12 +354,13 @@
 
 @media (max-width: 767px){ .u-block-5055-5 {left: calc(((100% - 540px) / 2)  + 117px)} }
 
-@media (max-width: 575px){ .u-block-5055-5 {left: calc(((100% - 340px) / 2)  + 17px)} }.u-section-12-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+@media (max-width: 575px){ .u-block-5055-5 {left: calc(((100% - 340px) / 2)  + 17px)} }.u-section-12-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-1 .u-sheet-1 {min-height: 800px}
 .u-section-12-1 .u-image-1 {object-position: 50% 100%; width: 765px; height: 609px; margin: 96px auto 0 0}
 .u-section-12-1 .u-text-1 {text-transform: uppercase; font-size: 1.375rem; margin: -134px auto 60px 229px} 
 
-@media (max-width: 1199px){ .u-section-12-1 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-1 {background-position: 50% 50%}
+.u-section-12-1 .u-sheet-1 {min-height: 496px}
 .u-section-12-1 .u-text-1 {margin-left: 189px} }
 
 @media (max-width: 991px){ .u-section-12-1 .u-sheet-1 {min-height: 718px}
@@ -368,13 +373,14 @@
 
 @media (max-width: 575px){ .u-section-12-1 .u-sheet-1 {min-height: 410px}
 .u-section-12-1 .u-image-1 {width: 340px; height: 271px}
-.u-section-12-1 .u-text-1 {font-size: 1.125rem; width: auto; margin: 42px 0 58px auto} }.u-section-12-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+.u-section-12-1 .u-text-1 {font-size: 1.125rem; width: auto; margin: 42px 0 58px auto} }.u-section-12-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-2 .u-sheet-1 {min-height: 800px}
 .u-section-12-2 .u-image-1 {object-position: 50% 100%; width: 528px; height: 609px; margin: 96px auto 0 0}
 .u-section-12-2 .u-text-1 {text-transform: uppercase; font-weight: 300; letter-spacing: 8px; margin: -122px 0 0}
 .u-section-12-2 .u-text-2 {text-transform: uppercase; font-size: 1.375rem; margin: 27px auto 0 82px} 
 
-@media (max-width: 1199px){ .u-section-12-2 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-2 {background-position: 50% 50%}
+.u-section-12-2 .u-sheet-1 {min-height: 496px}
 .u-section-12-2 .u-text-1 {margin-top: -138px}
 .u-section-12-2 .u-text-2 {margin-bottom: 9px; margin-left: 67px} }
 
@@ -389,12 +395,13 @@
 @media (max-width: 575px){ .u-section-12-2 .u-sheet-1 {min-height: 410px}
 .u-section-12-2 .u-image-1 {width: 340px; height: 392px}
 .u-section-12-2 .u-text-1 {margin-top: 305px}
-.u-section-12-2 .u-text-2 {font-size: 1.125rem; margin-top: -291px; margin-bottom: 35px; margin-left: 24px} }.u-section-12-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+.u-section-12-2 .u-text-2 {font-size: 1.125rem; margin-top: -291px; margin-bottom: 35px; margin-left: 24px} }.u-section-12-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-3 .u-sheet-1 {min-height: 800px}
 .u-section-12-3 .u-image-1 {object-position: 76.51% 100%; width: 994px; height: 511px; margin: 107px auto 0 0}
 .u-section-12-3 .u-text-1 {text-transform: uppercase; font-size: 1.375rem; margin: -46px auto 0 229px} 
 
-@media (max-width: 1199px){ .u-section-12-3 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-3 {background-position: 50% 50%}
+.u-section-12-3 .u-sheet-1 {min-height: 496px}
 .u-section-12-3 .u-image-1 {width: 940px; height: 483px}
 .u-section-12-3 .u-text-1 {margin-top: -109px; margin-bottom: 49px; margin-left: 189px} }
 
@@ -408,12 +415,13 @@
 
 @media (max-width: 575px){ .u-section-12-3 .u-sheet-1 {min-height: 410px}
 .u-section-12-3 .u-image-1 {width: 340px; height: 175px}
-.u-section-12-3 .u-text-1 {font-size: 1.125rem; margin-top: 42px; margin-left: 0; margin-right: 0} }.u-section-12-4 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+.u-section-12-3 .u-text-1 {font-size: 1.125rem; margin-top: 42px; margin-left: 0; margin-right: 0} }.u-section-12-4 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-4 .u-sheet-1 {min-height: 800px}
 .u-section-12-4 .u-image-1 {object-position: 50% 100%; width: 689px; height: 526px; margin: 144px auto 0 0}
 .u-section-12-4 .u-text-1 {text-transform: uppercase; font-size: 1.375rem; margin: -100px auto 0 229px} 
 
-@media (max-width: 1199px){ .u-section-12-4 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-4 {background-position: 50% 50%}
+.u-section-12-4 .u-sheet-1 {min-height: 496px}
 .u-section-12-4 .u-text-1 {margin-top: -96px; margin-bottom: 49px; margin-left: 189px} }
 
 @media (max-width: 991px){ .u-section-12-4 .u-sheet-1 {min-height: 718px}
@@ -425,12 +433,13 @@
 
 @media (max-width: 575px){ .u-section-12-4 .u-sheet-1 {min-height: 410px}
 .u-section-12-4 .u-image-1 {width: 340px; height: 259px}
-.u-section-12-4 .u-text-1 {font-size: 1.125rem; width: auto; margin-top: 42px; margin-right: 0; margin-left: 7px} }.u-section-12-5 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+.u-section-12-4 .u-text-1 {font-size: 1.125rem; width: auto; margin-top: 42px; margin-right: 0; margin-left: 7px} }.u-section-12-5 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-5 .u-sheet-1 {min-height: 800px}
 .u-section-12-5 .u-image-1 {object-position: 50% 100%; width: 689px; height: 526px; margin: 137px auto 0 7px}
 .u-section-12-5 .u-text-1 {text-transform: uppercase; font-size: 1.375rem; margin: -92px auto 0 229px} 
 
-@media (max-width: 1199px){ .u-section-12-5 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-5 {background-position: 50% 50%}
+.u-section-12-5 .u-sheet-1 {min-height: 496px}
 .u-section-12-5 .u-text-1 {margin-top: -96px; margin-bottom: 49px; margin-left: 189px} }
 
 @media (max-width: 991px){ .u-section-12-5 .u-sheet-1 {min-height: 718px}
@@ -442,12 +451,13 @@
 
 @media (max-width: 575px){ .u-section-12-5 .u-sheet-1 {min-height: 410px}
 .u-section-12-5 .u-image-1 {width: 340px; height: 259px}
-.u-section-12-5 .u-text-1 {font-size: 1.125rem; margin-top: 42px; margin-left: 0; margin-right: 0} }.u-section-12-6 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+.u-section-12-5 .u-text-1 {font-size: 1.125rem; margin-top: 42px; margin-left: 0; margin-right: 0} }.u-section-12-6 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-6 .u-sheet-1 {min-height: 800px}
 .u-section-12-6 .u-image-1 {object-position: 50% 38.1%; width: 667px; height: 526px; margin: 137px auto 0 14px}
 .u-section-12-6 .u-text-1 {text-transform: uppercase; font-size: 1.375rem; margin: -92px auto 0 149px} 
 
-@media (max-width: 1199px){ .u-section-12-6 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-6 {background-position: 50% 50%}
+.u-section-12-6 .u-sheet-1 {min-height: 496px}
 .u-section-12-6 .u-text-1 {margin-top: -96px; margin-bottom: 49px; margin-left: 123px} }
 
 @media (max-width: 991px){ .u-section-12-6 .u-sheet-1 {min-height: 718px}
@@ -459,13 +469,14 @@
 
 @media (max-width: 575px){ .u-section-12-6 .u-sheet-1 {min-height: 410px}
 .u-section-12-6 .u-image-1 {width: 340px; height: 268px}
-.u-section-12-6 .u-text-1 {font-size: 1.125rem; width: auto; margin-top: 42px; margin-right: 0; margin-left: 12px} }.u-section-12-7 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+.u-section-12-6 .u-text-1 {font-size: 1.125rem; width: auto; margin-top: 42px; margin-right: 0; margin-left: 12px} }.u-section-12-7 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-7 .u-sheet-1 {min-height: 800px}
 .u-section-12-7 .u-image-1 {object-position: 14.21% 56.85%; width: 451px; height: 627px; margin: 86px auto 0 0}
 .u-section-12-7 .u-text-1 {text-transform: uppercase; font-weight: 300; letter-spacing: 8px; margin: -132px 0 0}
 .u-section-12-7 .u-text-2 {text-transform: uppercase; font-size: 1.375rem; margin: 0 auto 0 27px} 
 
-@media (max-width: 1199px){ .u-section-12-7 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-7 {background-position: 50% 50%}
+.u-section-12-7 .u-sheet-1 {min-height: 496px}
 .u-section-12-7 .u-image-1 {height: 628px}
 .u-section-12-7 .u-text-1 {margin-top: -171px}
 .u-section-12-7 .u-text-2 {margin-top: 73px; margin-left: 22px} }
@@ -481,13 +492,14 @@
 @media (max-width: 575px){ .u-section-12-7 .u-sheet-1 {min-height: 410px}
 .u-section-12-7 .u-image-1 {height: 473px; margin-top: 67px; margin-right: initial; margin-left: initial; width: auto}
 .u-section-12-7 .u-text-1 {margin-top: 278px}
-.u-section-12-7 .u-text-2 {font-size: 1.125rem; margin: -279px 8px 34px} }.u-section-12-8 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png"); background-position: 50% 50%}
+.u-section-12-7 .u-text-2 {font-size: 1.125rem; margin: -279px 8px 34px} }.u-section-12-8 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/FruitsPhotoCollageFoodFacebookCover.png")}
 .u-section-12-8 .u-sheet-1 {min-height: 800px}
 .u-section-12-8 .u-image-1 {object-position: 50% 35.42%; width: 680px; height: 526px; margin: 137px auto 0 0}
 .u-section-12-8 .u-text-1 {text-transform: uppercase; font-size: 1.375rem; margin: -92px auto 60px 149px}
 .u-section-12-8 .u-text-2 {text-transform: uppercase; font-size: 1.125rem; margin: 30px 8px 60px} 
 
-@media (max-width: 1199px){ .u-section-12-8 .u-sheet-1 {min-height: 496px}
+@media (max-width: 1199px){ .u-section-12-8 {background-position: 50% 50%}
+.u-section-12-8 .u-sheet-1 {min-height: 496px}
 .u-section-12-8 .u-text-1 {margin-top: -96px; margin-left: 123px}
 .u-section-12-8 .u-text-2 {height: 19px; margin-left: 6px; margin-right: 6px} }
 
@@ -503,7 +515,7 @@
 @media (max-width: 575px){ .u-section-12-8 .u-sheet-1 {min-height: 410px}
 .u-section-12-8 .u-image-1 {width: 340px; height: 263px; margin-top: 67px}
 .u-section-12-8 .u-text-1 {margin-top: 42px; margin-left: 45px}
-.u-section-12-8 .u-text-2 {margin-left: 8px; margin-right: 8px} }.u-section-13 {min-height: 963px; background-image: url("images/default-image.jpg"); background-position: 50% 50%}
+.u-section-12-8 .u-text-2 {margin-left: 8px; margin-right: 8px} }.u-section-13 {min-height: 963px; background-image: url("images/default-image.jpg")}
 .u-section-13 .u-layout-wrap-1 {margin: 4px auto 4px 0}
 .u-section-13 .u-image-1 {min-height: 972px; background-image: url("images/21d778cf-19a2-42c3-accf-7499da948ac2.JPG"); background-position: 8.68% 18.76%}
 .u-section-13 .u-container-layout-1 {padding: 30px 30px 0}
@@ -516,7 +528,7 @@
 .u-section-13 .u-image-2 {min-height: 973px; background-image: url("images/WhatsAppImage2020-06-26at13.06.191.jpeg"); background-position: 25.79% 50%}
 .u-section-13 .u-container-layout-3 {padding: 30px} 
 
-@media (max-width: 1199px){ .u-section-13 {min-height: 634px}
+@media (max-width: 1199px){ .u-section-13 {min-height: 634px; background-position: 50% 50%}
 .u-section-13 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
 .u-section-13 .u-image-1 {min-height: 801px; height: 963px; background-size: auto 105%}
 .u-section-13 .u-layout-cell-2 {min-height: 802px}
@@ -553,7 +565,7 @@
 .u-section-13 .u-text-2 {font-size: 3rem; margin-left: 50px}
 .u-section-13 .u-text-3 {font-size: 3rem; width: auto; margin-top: -4px; margin-right: -47px; margin-left: 12px}
 .u-section-13 .u-text-4 {margin-top: 6px; margin-left: 0}
-.u-section-13 .u-image-2 {min-height: 636px; background-position: 14.8% 73.81%; background-size: auto 125%} }.u-section-14 {margin-top: 0; margin-bottom: 0; background-image: linear-gradient(0deg, rgba(245,247,250,0.15), rgba(245,247,250,0.15)), url("images/CopyofCreamandGreenCreativeResume2.png"); background-position: 50% 50%}
+.u-section-13 .u-image-2 {min-height: 636px; background-position: 14.8% 73.81%; background-size: auto 125%} }.u-section-14 {margin-top: 0; margin-bottom: 0; background-image: linear-gradient(0deg, rgba(245,247,250,0.15), rgba(245,247,250,0.15)), url("images/CopyofCreamandGreenCreativeResume2.png")}
 .u-section-14 .u-sheet-1 {min-height: 748px}
 .u-section-14 .u-layout-wrap-1 {background-image: none; width: 1382px; margin: 465px -121px 60px}
 .u-section-14 .u-layout-cell-1 {min-height: 241px}
@@ -573,7 +585,7 @@
 .u-section-14 .u-text-7 {font-size: 1.875rem; letter-spacing: 2px; margin: 20px 0 0}
 .u-section-14 .u-text-8 {font-size: 1.5rem; letter-spacing: 2px; margin: 23px 0 0} 
 
-@media (max-width: 1199px){ .u-section-14 {background-size: auto 115%; min-height: 608px}
+@media (max-width: 1199px){ .u-section-14 {background-position: 50% 50%; background-size: auto 115%; min-height: 608px}
 .u-section-14 .u-sheet-1 {min-height: 617px}
 .u-section-14 .u-layout-wrap-1 {width: 940px; margin-right: 0; margin-left: 0}
 .u-section-14 .u-layout-cell-1 {min-height: 158px}
@@ -680,11 +692,12 @@
 .u-section-15 .u-text-5 {margin-top: 33px}
 .u-section-15 .u-text-6 {margin-top: 258px}
 .u-section-15 .u-text-7 {margin-top: 33px; margin-left: 0}
-.u-section-15 .u-text-8 {margin-top: -706px; margin-left: 0} }.u-section-16 {background-image: url("images/PHOTO-2020-05-30-20-29-55.jpg"); background-position: 50% 50%}
+.u-section-15 .u-text-8 {margin-top: -706px; margin-left: 0} }.u-section-16 {background-image: url("images/PHOTO-2020-05-30-20-29-55.jpg")}
 .u-section-16 .u-sheet-1 {min-height: 103px}
 .u-section-16 .u-text-1 {font-family: "Uncial Antiqua"; font-size: 3rem; text-transform: uppercase; background-image: none; font-weight: 700; width: 604px; margin: 26px auto} 
 
-@media (max-width: 1199px){ .u-section-16 .u-sheet-1 {min-height: 85px} }
+@media (max-width: 1199px){ .u-section-16 {background-position: 50% 50%}
+.u-section-16 .u-sheet-1 {min-height: 85px} }
 
 @media (max-width: 991px){ .u-section-16 .u-sheet-1 {min-height: 65px} }
 
@@ -765,14 +778,13 @@
 .u-section-18 .u-gallery-2 {width: 320px; height: 2134px}
 .u-section-18 .u-gallery-3 {width: 320px; height: 2134px}
 .u-section-18 .u-btn-1 {margin-top: 45px; margin-bottom: 45px; margin-left: auto} }.u-section-19 {background-image: none}
-.u-section-19 .u-sheet-1 {min-height: 960px}
-.u-section-19 .u-layout-wrap-1 {margin: 93px auto 0 0}
+.u-section-19 .u-sheet-1 {min-height: 885px}
+.u-section-19 .u-layout-wrap-1 {margin: 0 auto 0 0}
 .u-section-19 .u-layout-cell-1 {min-height: 317px}
 .u-section-19 .u-container-layout-1 {padding: 30px}
-.u-section-19 .u-text-1 {text-transform: uppercase; font-weight: 700; font-size: 1.875rem; margin: -51px auto 0 426px}
 .u-section-19 .u-icon-1 {height: 115px; width: 115px; margin: 18px auto 0}
-.u-section-19 .u-text-2 {font-weight: 700; text-transform: uppercase; margin: -48px auto 0 91px}
-.u-section-19 .u-text-3 {font-size: 2rem; font-family: "Delius Swash Caps"; margin: 57px 0 0}
+.u-section-19 .u-text-1 {font-weight: 700; text-transform: uppercase; margin: -48px auto 0 91px}
+.u-section-19 .u-text-2 {font-size: 2rem; font-family: "Delius Swash Caps"; margin: 57px 0 0}
 .u-section-19 .u-social-icons-1 {height: 61px; min-height: 16px; width: 215px; min-width: 80px; white-space: nowrap; margin: 20px auto 0}
 .u-section-19 .u-icon-2 {height: 100%}
 .u-section-19 .u-icon-3 {height: 100%}
@@ -783,15 +795,15 @@
 .u-section-19 .u-btn-1 {background-image: none; border-style: solid}
 .u-section-19 .u-layout-cell-3 {min-height: 550px}
 .u-section-19 .u-container-layout-3 {padding: 30px}
-.u-section-19 .u-text-4 {margin-top: 0; text-transform: uppercase; font-weight: 700; font-size: 1.5rem; margin-bottom: 0}
+.u-section-19 .u-text-3 {margin-top: 0; text-transform: uppercase; font-weight: 700; font-size: 1.5rem; margin-bottom: 0}
 .u-section-19 .u-custom-html-1 {min-height: 457px; margin: -41px -83px 0 -16px}
-.u-section-19 .u-text-5 {margin-left: 0; font-weight: 300; margin-bottom: 0; text-transform: uppercase; margin-top: -396px} 
+.u-section-19 .u-text-4 {margin-left: 0; font-weight: 300; margin-bottom: 0; text-transform: uppercase; margin-top: -396px} 
 
 @media (max-width: 1199px){ .u-section-19 .u-sheet-1 {min-height: 430px}
 .u-section-19 .u-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial}
 .u-section-19 .u-layout-cell-1 {min-height: 261px}
-.u-section-19 .u-text-1 {margin-left: 332px}
-.u-section-19 .u-text-2 {margin-left: 71px}
+.u-section-19 .u-icon-1 {margin-top: 0}
+.u-section-19 .u-text-1 {margin-left: 71px}
 .u-section-19 .u-social-icons-1 {width: 175px}
 .u-section-19 .u-layout-cell-2 {min-height: 265px}
 .u-section-19 .u-layout-cell-3 {min-height: 265px}
@@ -799,22 +811,21 @@
 
 @media (max-width: 991px){ .u-section-19 .u-sheet-1 {min-height: 732px}
 .u-section-19 .u-layout-cell-1 {min-height: 100px}
-.u-section-19 .u-text-1 {margin-left: 569px}
-.u-section-19 .u-text-2 {margin-left: 122px}
+.u-section-19 .u-icon-1 {margin-top: 33px}
+.u-section-19 .u-text-1 {margin-left: 122px}
 .u-section-19 .u-layout-cell-2 {min-height: 100px}
 .u-section-19 .u-layout-cell-3 {min-height: 100px} }
 
 @media (max-width: 767px){ .u-section-19 .u-sheet-1 {min-height: 1618px}
 .u-section-19 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
-.u-section-19 .u-text-1 {margin-left: 986px}
-.u-section-19 .u-text-2 {margin-left: 211px}
+.u-section-19 .u-text-1 {margin-left: 211px}
 .u-section-19 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
 .u-section-19 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
 
-@media (max-width: 575px){ .u-section-19 .u-sheet-1 {min-height: 1440px}
-.u-section-19 .u-layout-wrap-1 {margin-bottom: 60px; margin-right: initial; margin-left: initial}
-.u-section-19 .u-text-1 {font-size: 1.5rem; margin-left: 607px}
-.u-section-19 .u-text-2 {margin-left: 130px}
+@media (max-width: 575px){ .u-section-19 .u-sheet-1 {min-height: 1159px}
+.u-section-19 .u-layout-wrap-1 {margin-top: 1px; margin-bottom: 60px; margin-right: initial; margin-left: initial}
+.u-section-19 .u-icon-1 {margin-top: 19px}
+.u-section-19 .u-text-1 {margin-left: 130px}
 .u-section-19 .u-form-1 {margin-top: 31px}
 .u-section-19 .u-custom-html-1 {margin-top: -49px; margin-right: 38px; margin-left: -38px}
-.u-section-19 .u-text-5 {margin-top: -388px; margin-right: auto} }
+.u-section-19 .u-text-4 {margin-top: -388px; margin-right: auto} }
