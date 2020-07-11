@@ -708,8 +708,8 @@
 @media (max-width: 575px){ .u-section-17-1 .u-sheet-1 {min-height: 258px}
 .u-section-17-1 .u-text-1 {font-size: 0.875rem; margin-left: -20px} }.u-section-18 {margin-top: 0; margin-bottom: 0}
 .u-section-18 .u-sheet-1 {min-height: 219px}
-.u-section-18 .u-text-1 {font-size: 2rem; font-family: "Delius Swash Caps"; margin: 38px auto 0 536px}
-.u-section-18 .u-btn-1 {font-size: 2.25rem; border-style: none; background-image: none; font-family: "Uncial Antiqua"; margin: 10px auto 60px 425px} 
+.u-section-18 .u-text-1 {font-size: 2rem; font-family: "Delius Swash Caps"; margin: 25px 0 0}
+.u-section-18 .u-btn-1 {font-size: 2.25rem; border-style: none; background-image: none; font-family: "Uncial Antiqua"; margin: 23px auto 60px 425px} 
 
 @media (max-width: 1199px){ .u-section-18 .u-sheet-1 {min-height: 1230px}
 .u-section-18 .u-text-1 {margin-left: 442px}
@@ -764,6 +764,6 @@
 .u-section-19 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
 
 @media (max-width: 575px){ .u-section-19 {min-height: 1159px}
-.u-section-19 .u-text-1 {font-size: 1.5rem; width: auto; margin-top: -26px}
-.u-section-19 .u-form-1 {margin-top: 0; margin-bottom: -30px; margin-right: initial; margin-left: initial}
+.u-section-19 .u-text-1 {font-size: 1.5rem; width: auto; margin-top: -30px}
+.u-section-19 .u-form-1 {margin-top: 4px; margin-bottom: -30px; margin-right: initial; margin-left: initial}
 .u-section-19 .u-text-2 {font-size: 1.8125rem} }
