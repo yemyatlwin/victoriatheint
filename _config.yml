@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-sitemap
 jekyll-sitemap
-permalink: /:title/
+permalink: title/
 
 
